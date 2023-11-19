@@ -1,0 +1,9 @@
+footer {
+    margin-top: auto;
+    background-color: #00FF00;
+    height: 60px;
+    width: 100%;
+}
+p {
+    text-align: center;
+}
