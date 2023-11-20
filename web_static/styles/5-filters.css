@@ -41,12 +41,12 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
-h3.locations,
-h3.amenities{
+.locations h3,
+.amenities h3{
     font-weight: 600;
 }
-h4.locations,
-h4.amenities{
-    font-weight: 400;
+.locations h4,
+.amenities h4{
     font-size: 14px;
+    font-weight: 100;
 }
